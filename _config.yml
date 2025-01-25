@@ -2,21 +2,21 @@
 # Site
 
 title: Recipe bank
-url: "https://khar.github.io/"
-baseurl: "/"
+url: "https://nickan2c.github.io/"
+baseurl: "/recipe-bank"
 google_analytics_key:
 newsletter_action:
 disqus_shortname:
 
 # Values for the jekyll-seo-tag gem (https://github.com/jekyll/jekyll-seo-tag)
-logo: /siteicon.png
+logo: /siteicon.jpeg
 description:  Literally posting stuff I cook / make at home so I have a recipe bank
 author: 
   name: 
   email:
   twitter: # twitter username without the @ symbol
 social:
-  name: Treat Template
+  name: Template
   links:
     - https://github.com/CloudCannon/treat-jekyll-template
 
