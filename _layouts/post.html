@@ -21,7 +21,15 @@ layout: default
 		<div class="ingredients">
 			<h2>Ingredients</h2>
 			{{ page.recipe.ingredients_markdown | markdownify }}
+
+			<div class="nutrition">
+				<h2>Nutrition</h2>
+				{{ page.recipe.nutrition_markdown | markdownify }}
+			</div>
+			
 		</div>
+
+		
 
 		<div class="directions">
 			<h2>Directions</h2>
