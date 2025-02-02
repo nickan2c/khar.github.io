@@ -3,8 +3,8 @@ date: 2025-01-26
 title: Kabab tabeyi
 categories:
   - Persian
-  - Main
-featured_image: /recipe-bank/images/recipes/kabab-tabeyi.jpg
+  - Main Course
+featured_image: /recipe-bank/images/recipes/kabab-tabeyi.png
 recipe:
   servings: 4
   prep: 10 minutes
@@ -40,7 +40,5 @@ recipe:
 
     _Note: that’s with 2 tbsp olive oil 
 ---
-
-<!-- ![Kotlet Irani](https://source.unsplash.com/featured/?iranian-food) -->
 
 Kabab Tabeyi just means kebab in a pan! Very simple and easy to make, still amazing and very filling, with great macros :)

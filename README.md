@@ -44,7 +44,7 @@ Treat is already optimised for adding, updating and removing recipes, navigation
 
 ### Posts/Recipes
 
-* Add, update or remove a post in the *Posts* collection.
+* Add, update or remove a post in the *Posts* collection with the format provided (2025-01-01-name.md), and add an image under images/recipes
 * The recipes page is organised by categories.
 * Change the defaults when new posts are created in `_posts/_defaults.md`.
 
