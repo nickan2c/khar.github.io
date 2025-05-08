@@ -15,7 +15,6 @@ recipe:
     * Veg to stir fry (e.g beans, peppers)
     * One (400g) Cauliflower
     * Seasoning (important)
-    * 
   directions_markdown: |-
     **Instructions**
 
@@ -34,7 +33,7 @@ recipe:
     * I like to make a sauce with greek yoghurt, lemon juice, garlic powder, salt&pepper and a herb of choice (I like dill)
     * You can mix in real rice with the cauliflower rice if you don't like it, for free volume :D
 
-    
+
   nutrition_markdown: |-
     **Nutritional Information**
     Yields 2 (big) servings (this is with a cup of green beans and 1 pepper)

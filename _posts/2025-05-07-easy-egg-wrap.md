@@ -3,7 +3,7 @@ date: 2025-05-07
 title: Easy Egg wraps
 categories:
   - Main Course
-featured_image: /recipe-bank/images/recipes/turkey-cauliflower.jpg
+featured_image: /recipe-bank/images/recipes/breakfast-burritos.jpg
 recipe:
   servings: 2
   prep: 5 minutes
@@ -35,6 +35,7 @@ recipe:
 
     So yum and filling!
     
+    Cost breakdown: Eggs 20p, egg whites £5 *0.2 so £1, pepper 60p, wrapsx2 24p - total under £2 including the negligible butter and spray etc.
   nutrition_markdown: |-
     **Nutritional Information**
     Yields 2 burritos (this is with a cup of green beans and 1 pepper)
