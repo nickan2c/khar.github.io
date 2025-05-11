@@ -35,7 +35,7 @@ recipe:
 
     So yum and filling!
     
-    Cost breakdown: Eggs 20p, egg whites £5 *0.2 so £1, pepper 60p, wrapsx2 24p - total under £2 including the negligible butter and spray etc.
+    Cost breakdown: Eggs 20p, egg whites £5 *0.2 so £1, pepper 60p, wrapsx2 24p - total £2.04 not including the negligible butter and spray etc. Not bad for 2 filling burritos!
   nutrition_markdown: |-
     **Nutritional Information**
     Yields 2 burritos (this is with a cup of green beans and 1 pepper)
