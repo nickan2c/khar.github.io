@@ -3,7 +3,7 @@ date: 2025-05-10
 title: Anabolic Koobideh    
 categories:
   - Main Course
-featured_image: /recipe-bank/images/recipes/breakfast-burritos.jpg
+featured_image: /recipe-bank/images/recipes/koobideh-weightloss.png
 recipe:
   servings: 1
   prep: 10 minutes
