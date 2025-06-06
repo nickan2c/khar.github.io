@@ -3,7 +3,11 @@ date: 2025-06-02
 title: Cottage Cheese Ice cream    
 categories:
   - Dessert
+<<<<<<< HEAD
 featured_image: /recipe-bank/images/recipes/cottage-cheese-ice=cream.jpg
+=======
+featured_image: /recipe-bank/images/recipes/cottage-cheese-ice-cream.jpg
+>>>>>>> 75b66da (Add cottage cheese ice cream and image for koobideh)
 recipe:
   servings: 1
   prep: 5 minutes
